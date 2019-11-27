@@ -1,0 +1,2 @@
+# random
+Link Random Blog
