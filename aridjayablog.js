@@ -746,8 +746,6 @@ var pages = [
 "https://aridjaya.blogspot.com/2019/12/the-sign-of-former-lover-still-loves-you.html",
 "https://aridjaya.blogspot.com/2019/12/want-to-express-feelings-to-guys-try.html",
 
-
-
 ]; 
 function randomPage() { 
 return pages[Math.round(Math.random() * (pages.length - 1))]; 
