@@ -742,8 +742,9 @@ var pages = [
 "https://www.aridjaya.com/2019/11/top-10-tips-for-building-loving.html",
 "https://www.aridjaya.com/2019/11/what-is-online-dating-beginners-guide.html",
 "https://www.aridjaya.com/2019/11/when-to-give-out-your-phone-number.html",
-
-
+"https://www.aridjaya.com/2020/04/healthy-dating-style.html",
+"https://www.aridjaya.com/2020/05/can-my-love-become-life-partner.html",
+"https://www.aridjaya.com/2020/07/love-tips-for-women.html",
 
 ]; 
 function randomPage() { 
