@@ -19,12 +19,12 @@ var pages = [
 "https://sejutakita.blogspot.com",
 "https://viralindongsay.blogspot.com",
 "https://jandamudaseksi.blogspot.com",
-"https://hasdukmerahputih.blogspot.com",
 "https://piniterest.blogspot.com",
 "https://bayarpedia.blogspot.com",
 "https://kuotagram.blogspot.com",
 "https://pejuangpramuka.blogspot.com",
 "https://spewehascouter.blogspot.com",
+
 
 ];
 function randomPage() { 
