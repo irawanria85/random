@@ -15,7 +15,6 @@ var pages = [
 "https://sejutashare.blogspot.com/",
 "https://pinogram.blogspot.com/",
 "https://sejutakuota.blogspot.com/",
-"https://cuperhero.blogspot.com/",
 "https://surgajanda.blogspot.com/",
 "https://pinmotivasi.blogspot.com/",
 "https://jandamudaseksi.blogspot.com/",
