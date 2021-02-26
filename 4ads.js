@@ -1,7 +1,8 @@
 var pages = [ 
+"https://nyinyirnews77.blogspot.com/",
+"https://hasdukmerahputih.blogspot.com/",
 "https://spewehascouter.blogspot.com/",
 "https://pejuangpramuka.blogspot.com/",
-"https://www.hasdukmerahputih.com/",
 ];
 function randomPage() { 
 return pages[Math.round(Math.random() * (pages.length - 1))]; 
